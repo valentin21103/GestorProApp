@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: GestorPro-Setup-1.0.0.exe
+    sha512: gPIClbKHUrnw8RHYyhBVBa654LARQ5k4+iTMVFJ7Ol7KEWXSuBg0N41nczi6TU+8NZLbXIldDYXI1nJQndFtqg==
+    size: 147689064
+path: GestorPro-Setup-1.0.0.exe
+sha512: gPIClbKHUrnw8RHYyhBVBa654LARQ5k4+iTMVFJ7Ol7KEWXSuBg0N41nczi6TU+8NZLbXIldDYXI1nJQndFtqg==
+releaseDate: '2026-04-21T03:53:03.935Z'
