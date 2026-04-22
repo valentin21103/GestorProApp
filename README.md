@@ -13,7 +13,7 @@
 | :---: | :---: |
 | <img width="1647" height="1012" alt="gestion3" src="https://github.com/user-attachments/assets/ede3fdf8-c4d9-4423-86fc-d312906f3587" /> | <img width="1597" height="990" alt="gestion2" src="https://github.com/user-attachments/assets/5d5fd8f5-6d82-41e1-a89c-0690ca9f3ef1" />|
 
-| Gestión de Ventas | Módulo de Clientes |
+| Gestión de Ventas | Metricas |
 | :---: | :---: |
 | <img width="1193" height="753" alt="gestion1" src="https://github.com/user-attachments/assets/609731c7-cb7f-4807-a99b-a63e9e63a241" /> | <img width="1599" height="1005" alt="gestion4" src="https://github.com/user-attachments/assets/25240aab-0d45-448f-a4ba-23bae5216a0f" /> |
 
