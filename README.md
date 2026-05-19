@@ -11,11 +11,17 @@
 
 | Acceso al Sistema | Dashboard Principal |
 | :---: | :---: |
-| <img width="1647" height="1012" alt="gestion3" src="https://github.com/user-attachments/assets/ede3fdf8-c4d9-4423-86fc-d312906f3587" /> | <img width="1597" height="990" alt="gestion2" src="https://github.com/user-attachments/assets/5d5fd8f5-6d82-41e1-a89c-0690ca9f3ef1" />|
+| <img width="1647" height="1012" alt="gestion3" src="https://github.com/user-attachments/assets/ede3fdf8-c4d9-4423-86fc-d312906f3587" /> | <img width="1602" height="994" alt="1" src="https://github.com/user-attachments/assets/aa46954c-4763-4eb7-bb9f-9c333a63d3e9" />|
 
 | Gestión de Ventas | Metricas |
 | :---: | :---: |
-| <img width="1193" height="753" alt="gestion1" src="https://github.com/user-attachments/assets/609731c7-cb7f-4807-a99b-a63e9e63a241" /> | <img width="1599" height="1005" alt="gestion4" src="https://github.com/user-attachments/assets/25240aab-0d45-448f-a4ba-23bae5216a0f" /> |
+| <img width="1596" height="999" alt="2" src="https://github.com/user-attachments/assets/21ce9863-3342-459c-90f3-41be9b04944f" /> | <img width="1600" height="998" alt="3" src="https://github.com/user-attachments/assets/07a462d0-a5d3-4bd9-beaf-f26f2f2f7827" /> |
+| Arqueo | Auditoria |
+
+| :---: | :---: |
+
+|<img width="1608" height="976" alt="5" src="https://github.com/user-attachments/assets/213e9830-1c5b-4ecd-84d2-947712f6b1c2" /> | |<img width="1601" height="1003" alt="4" src="https://github.com/user-attachments/assets/3de51d9a-cc5e-4e3f-a5d8-21fa378ab4a1" />|
+ |
 
 ---
 
