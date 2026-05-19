@@ -18,10 +18,9 @@
 | <img width="1596" height="999" alt="2" src="https://github.com/user-attachments/assets/21ce9863-3342-459c-90f3-41be9b04944f" /> | <img width="1600" height="998" alt="3" src="https://github.com/user-attachments/assets/07a462d0-a5d3-4bd9-beaf-f26f2f2f7827" /> |
 | Arqueo | Auditoria |
 
+| Arqueo | Auditoria |
 | :---: | :---: |
-
-|<img width="1608" height="976" alt="5" src="https://github.com/user-attachments/assets/213e9830-1c5b-4ecd-84d2-947712f6b1c2" /> | |<img width="1601" height="1003" alt="4" src="https://github.com/user-attachments/assets/3de51d9a-cc5e-4e3f-a5d8-21fa378ab4a1" />|
- |
+| <img width="1608" height="976" alt="5" src="https://github.com/user-attachments/assets/213e9830-1c5b-4ecd-84d2-947712f6b1c2" /> | <img width="1601" height="1003" alt="4" src="https://github.com/user-attachments/assets/3de51d9a-cc5e-4e3f-a5d8-21fa378ab4a1" /> |
 
 ---
 
